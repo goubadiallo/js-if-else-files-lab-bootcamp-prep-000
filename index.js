@@ -1,6 +1,11 @@
 var name = "Joe"
-
-var height = "74"
+if (index.js === name){
+  console.log("the name is correct")
+}
+var height === height"74"{
+  console.log()
+}
+if (index.js =)
 
 
 // Don't worry about this
